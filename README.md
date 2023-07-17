@@ -1,2 +1,2 @@
 # ToDo-List-Smart-Contract
-ToDoTask Smart Contract
+ToDo Task Smart Contract
